@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Unix</h1>
+<h1 align="center">Hi 👋, I'm Hardianto</h1>
 <h3 align="center">A passionate frontend developer from indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hardianto-cpu&label=Profile%20views&color=0e75b6&style=flat" alt="hardianto-cpu" /> </p>
