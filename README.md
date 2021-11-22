@@ -1,37 +1,12 @@
 <h1 align="center">Hi 👋, I'm Hardianto</h1>
-<h3 align="center">A passionate frontend developer from indonesia</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hardianto-cpu&label=Profile%20views&color=0e75b6&style=flat" alt="hardianto-cpu" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hardianto-cpu" alt="hardianto-cpu" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/hardianto02_" target="blank"><img src="https://img.shields.io/twitter/follow/hardianto02_?logo=twitter&style=for-the-badge" alt="hardianto02_" /></a> </p>
-
-- 🔭 I’m currently working on [unix-bot](https://github.com/hardianto-cpu/unix-bot)
-
-- 🌱 I’m currently learning **ejs, express, node**
-
-- 👨‍💻 All of my projects are available at [hardianto.xyz](hardianto.xyz)
-
-- 📝 I regularly write articles on [hardianto.xyz](hardianto.xyz)
-
-- 💬 Ask me about **18 th🎉**
-
-- 📫 How to reach me **antojago5@gmail.com**
-
-- 📄 Know about my experiences [not](not)
-
-- ⚡ Fun fact **Stay Halal Brader**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/hardianto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="hardianto" height="30" width="40" /></a>
 <a href="https://dev.to/hardianto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="hardianto" height="30" width="40" /></a>
-<a href="https://twitter.com/hardianto02_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hardianto02_" height="30" width="40" /></a>
 <a href="https://fb.com/hardi anto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hardi anto" height="30" width="40" /></a>
 <a href="https://instagram.com/hardianto02_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hardianto02_" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/hardianto gaming" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hardianto gaming" height="30" width="40" /></a>
